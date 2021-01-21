@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+/**
+ * __Histogram___ 
+ * @author __Abdul Moeed___
+ * @version __12/14/2017__
+ */ 
+public class histogram
+{
+   public static void main( String[] args)
+   {
+      
+     //array declaration
+     ArrayList<Integer> diceSum;
+      
+      
+      
+      // constants
+     
+     Scanner scan = new Scanner( System.in);
+     diceSum = new ArrayList<Integer> (11);
+     
+      // variables
+
+      // program code
+     
+     for (int i = 0; i < 11 ; i++ )
+     {
+       diceSum.add(0)
+     }
+      
+   }
+
+}

@@ -1,0 +1,128 @@
+/**
+ * __Testing library books___ 
+ * @author __Abdul Moeed___
+ * @version __12.7.2017__
+ */ 
+
+public class TestLibraryBook
+{
+   public static void main( String[] args)
+   {
+
+      // variables
+      
+      LibraryBook bookA;
+      LibraryBook bookB;
+      LibraryBook bookC;
+      LibraryBook bookH;
+      
+      // program code
+      
+      bookA = new LibraryBook ( "Sherlock", "Sir Arthur Conan Doyle" );
+      bookB = new LibraryBook ( "Lord of the Rings ", "JRR Tolkien" );
+      bookC = new LibraryBook ( "Sherlock", "Sir Arthur Conan Doyle" );
+      
+      //copy constructor giving bookH the same value as bookB
+      bookH = new LibraryBook (bookB);
+      
+      // New lýne
+      
+      System.out.println();
+                         
+      // bookBorrowed increments the due date 
+      
+      bookA.bookLoan( "15-Dec-2017");
+      
+      System.out.println( bookA.toString() );
+      System.out.println( bookB.toString() );
+      //BookREturn sets the due date to zero
+      
+      bookA.bookReturn();
+      
+      // New lýne
+      
+      System.out.println();
+      
+      System.out.println( bookA.getTimesLoaned() );
+      System.out.println( bookA.onLoan() );
+      
+      //== is used to check the memory locations
+      //  .equals is used to compared the values
+      
+      
+      //comparing bookA with bookA
+      if ( bookA == bookA)
+      {
+        System.out.println ( " bookA==bookA certifies Conditon that it has the same memory location.");
+      }else
+      {
+        System.out.println(" bookA==bookA doesnot certify");
+      }
+      if ( bookA.equals(bookA))
+      {
+        System.out.println( " bookA .equals(bookA) certifies condition it has the same value.");
+      }else
+      {
+        System.out.println( "booka.equals(bookA) doesnot certify");
+      }
+      
+      //comparing bookA with bookB
+                             
+      if ( bookA == bookB)
+      {
+        System.out.println( " bookA==bookB certifies Conditon that it has the same memory location.");
+      }else
+      {
+        System.out.println(" bookA==bookB doesnot certify");
+      }
+      if ( bookA.equals(bookB))
+      {
+        System.out.println( " bookA .equals(bookB) certifies condition it has the same value.");
+      }else
+      {
+        System.out.println( "booka.equals(bookB) doesnot certify");
+      }
+      
+      //comparing bookA with bookC which has the same author and title as bookC
+      
+      if ( bookA == bookC)
+      {
+        System.out.println( " bookA==bookC certifies Conditon that it has the same memory location.");
+      }else
+      {
+        System.out.println(" bookA==bookC doesnot certify");
+      }
+       if ( bookA.equals(bookC))
+      {
+        System.out.println( " bookA .equals(bookC) certifies condition it has the same value.");
+      }else
+      {
+        System.out.println( "booka.equals(bookC) doesnot certify");
+      }
+      
+      //testing the copy constructors and hasSameTitle method
+      
+      /*
+       * with the use of copy constructor we gave bookH the same value as bookB
+       * we are now checking if the copy constructor worked
+       */ 
+      
+      if ( bookH.hasSameTitle(bookB) )
+      {
+        System.out.println( " Copy constructor working and titles are same");
+      }else
+      {
+        System.out.println( "Copy constructor not working as titles are not same");
+      }
+      
+       //testing the copy constructors and hasSameAuthor method
+        if ( bookH.hasSameAuthor(bookB) )
+      {
+        System.out.println( " Copy constructor working and authors are same");
+      }else
+      {
+        System.out.println( "Copy constructor not working as authors are not same");
+      }
+      
+   }
+}

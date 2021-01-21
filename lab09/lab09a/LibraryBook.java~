@@ -1,0 +1,82 @@
+/**
+ * __Library___ 
+ * @author __Abdul Moeed___
+ * @version __30,11,2017__
+ */ 
+
+public class LibraryBook
+{
+  // properties
+  
+  private String author;
+  private String dueDate;
+  private int timesLoaned;
+  private String title;
+  private Boolean loaned;
+   
+  
+  // constructors
+  
+  public LibraryBook ( String title, String author)
+  {
+    this.title = title;
+    this.author = author;
+    dueDate = "";
+    timesLoaned = 0;
+    loaned = false;
+  }
+  
+  // methods
+  
+  /**
+   * The method updates the count every time a book is loaned
+   * @param dueDate
+   */
+  
+  public void bookLoan(String dueDate)
+  {
+    
+    this.dueDate = dueDate;
+    timesLoaned++;
+    loaned = true;
+  }
+  
+  /**
+   * This method clears the due date value when the book is returned.
+   */
+  public void bookReturn()
+  {
+    dueDate = "";
+    loaned = false;
+  }
+  
+   /**
+    * This method checks hoe many týmes the book is loaned.
+    * @return The number of times book is loaned
+    */
+  
+  public int getTimesLoaned()
+  {
+    return timesLoaned;
+  }
+  
+   /**
+    * This method checks the status of the book.
+    * @return ýf the book is loaned or not
+    */
+  
+  public Boolean onLoan()
+  {
+    return loaned;
+  }
+  
+  /**
+   * Converts data into string
+   * @return  string value of class
+   */
+  
+  public String toString()
+  {
+    return title + "   " + author + "   " + dueDate + "   " + timesLoaned;
+  }
+}

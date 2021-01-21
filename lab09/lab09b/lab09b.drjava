@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="histogram.java" package="" timestamp="14-Dec-2017 17:32:14">
+        <select from="1608" to="1608"/>
+        <scroll column="1237" row="0"/>
+      </file>
+      <file name="Dice.java" package="" timestamp="06-Dec-2017 19:39:56">
+        <select from="1608" to="1608"/>
+        <scroll column="1237" row="0"/>
+      </file>
+      <file name="Die.java" package="" timestamp="06-Dec-2017 19:39:57">
+        <select from="1608" to="1608"/>
+        <scroll column="1237" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
