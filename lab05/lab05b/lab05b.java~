@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+/**
+ * __lab 05b___ 
+ * @author __Abdul Moeed___
+ * @version __11/2/17__
+ */ 
+public class lab05b
+{
+   public static void main( String[] args)
+   {
+      Scanner scan = new Scanner( System.in);
+
+      // constants
+      
+      Scanner scan = new Scanner( System.in);
+
+      
+      // variables
+      
+      int rows;
+      int columns;
+      
+
+      // program code
+      System.out.println("Enter rows");
+        rows = scan.nextInt();
+      
+      System.out.println( "Enter Column");
+        columns = scan.nextInt();
+        
+        if ( rows <= 0 || columns <= 0 )
+        { 
+          System.out.println( "Error");
+        }else
+          
+        {
+          for ( int i = 1 ; i <= rows ; i++ )
+          {
+            for ( int j = 1 ; j <= columns ; j++ )
+            {
+              System.out.print( i + "'" + j )
+            }
+            System.out.println();
+          }
+   }
+
+}

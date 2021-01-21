@@ -1,0 +1,79 @@
+public class IntBag
+{
+  //properties
+  
+  private int[] bag;
+  private int valid;
+  
+  //constructors
+  public IntBag()
+  {
+    this.bag = new int [100];
+    this.valid = 0;
+  }
+  
+  public IntBag( int n )
+  {
+    this.bag = new int [n];
+    this.valid = 0;
+  }
+  
+  public void add( int x )
+  {
+    this.bag[this.valid] = x;
+    this.valid = this.valid + 1;
+  }
+  
+  public void add( int x, int position )
+  {
+    for ( int i = this.valid; i > position; i--)
+    {
+      this.bag[i] = this.bag[i-1 ];
+    }
+    this.bag[ position ] = x;
+    this.valid = this.valid + 1;
+  }
+  
+  public void remove ( int position )
+  {
+    for ( int i = position; i < this.valid; i++ )
+    {
+      this.bag[i] = this.bag[ i + 1];
+    }
+    this.bag[this.valid - 1] = 0;
+    this.valid = this.valid - 1;
+  }
+  
+  public String toString()
+  {
+    String str = "";
+    for (int i = 0 ; i < this.bag.length; i++ )
+    {
+      str = str + this.bag[i] + ", " ;
+    }
+    return str;
+  }
+  
+  public int size()
+  {
+    return this.valid;
+  }
+  
+  public int get( int position )
+  {
+    return this.bag[position];
+  }
+  
+  public String findAll( int x )
+  {
+    String result = "";
+    for (int i =0; i < this.bag.length; i++)
+    {
+      if ( x == this.bag[i] )
+      {
+        result = result + i + ", ";
+      }
+    }
+    return result;
+  }
+}

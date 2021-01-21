@@ -1,0 +1,6 @@
+6 Dec 2017 16:40:37 GMT: Log 'EclipseCompiler.txt' opened: 6 Dec 2017 16:40:37 GMT with name C:\Users\hp\Desktop\CS\lab07\lab07a\EclipseCompiler.txt
+6 Dec 2017 16:47:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1d7a2f4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@115e83c
+fileObjects = [C:\Users\hp\Desktop\CS\lab07\lab07a\Die.java, C:\Users\hp\Desktop\CS\lab07\lab07a\TestDice.java, C:\Users\hp\Desktop\CS\lab07\lab07a\Dice.java, C:\Users\hp\Desktop\CS\lab07\lab07a\TestDie.java, C:\Users\hp\Desktop\CS\lab07\lab07a\DiceGame.java, C:\Users\hp\Desktop\CS\lab07\lab07a\TestDiceGame.java]
+6 Dec 2017 16:47:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9e3426' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab07\lab07a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+6 Dec 2017 16:47:13 GMT: Compiler call returned

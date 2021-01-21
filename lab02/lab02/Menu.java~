@@ -1,0 +1,48 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+
+/**
+ * __Menu___ 
+ * @author __Abdul Moeed___
+ * @version __26/2/2108__
+ */ 
+public class Menu
+{
+   public static void main( String[] args)
+   {
+      
+      ArrayList<MySimpleURLReader> collection = new ArrayList<MySimpleURLReader>();
+      
+      // constants
+      Scanner scan = new Scanner( System.in);
+      
+      // variables
+      int x = 0;
+      int y = 0;
+      String urls = "";
+      // program code
+      while (x != 3){
+         
+         System.out.println("1. Add" + '\n' + "2. List" + '\n' + "3. Quit" );
+         x = scan.nextInt();
+         if ( x == 1){
+            System.out.println("Enter URL: ");
+            urls = scan.next();
+            if ( urls.substring(urls.length()- 3, urls.length() ).equals("txt") )
+               collection.add(new MySimpleURLReader( urls )); else
+                  collection.add(new HTMLFilteredReader ( urls) ) ;
+               
+         }
+         if ( x == 2 ){ 
+            for (int i = 0; i < collection.size(); i++ ){
+               System.out.println( i + ". " + collection.get(i).getName() );
+            }
+            System.out.println("Select poem:");
+            y = scan.nextInt();
+            if ( y == collection.size() ) {}else
+               System.out.println(collection.get(y).getPageContents() );
+         }
+      }
+   }
+   
+}

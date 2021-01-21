@@ -1,0 +1,250 @@
+15 Nov 2017 22:20:33 GMT: Log 'EclipseCompiler.txt' opened: 15 Nov 2017 22:20:33 GMT with name C:\Users\hp\Desktop\CS\lab05\lab05c\EclipseCompiler.txt
+15 Nov 2017 22:23:16 GMT: diagnostics = javax.tools.DiagnosticCollector@7230e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@122dd33
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f06667' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:17 GMT: Compiler call returned
+15 Nov 2017 22:23:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@193b5cd
+15 Nov 2017 22:23:17 GMT:  Kind = ERROR
+15 Nov 2017 22:23:17 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 24 ColNo = 12 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+15 Nov 2017 22:23:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aab1c9
+15 Nov 2017 22:23:17 GMT:  Kind = ERROR
+15 Nov 2017 22:23:17 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+15 Nov 2017 22:23:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@915b8c
+15 Nov 2017 22:23:17 GMT:  Kind = ERROR
+15 Nov 2017 22:23:17 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ";" to complete Statement'
+15 Nov 2017 22:23:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d7729
+15 Nov 2017 22:23:17 GMT:  Kind = ERROR
+15 Nov 2017 22:23:17 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1a11076
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5fdd34
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1789b05' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:23 GMT: Compiler call returned
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40add1
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b31c09
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ";" to complete Statement'
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85b752
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:23 GMT: diagnostics = javax.tools.DiagnosticCollector@979db
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e75971
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3b45eb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:23 GMT: Compiler call returned
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef8d05
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184b0cd
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'Syntax error, insert ";" to complete Statement'
+15 Nov 2017 22:23:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df82ea
+15 Nov 2017 22:23:23 GMT:  Kind = ERROR
+15 Nov 2017 22:23:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:29 GMT: diagnostics = javax.tools.DiagnosticCollector@a8258d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f361ff
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@106c10d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:29 GMT: Compiler call returned
+15 Nov 2017 22:23:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33fb97
+15 Nov 2017 22:23:29 GMT:  Kind = ERROR
+15 Nov 2017 22:23:29 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:29 GMT: diagnostics = javax.tools.DiagnosticCollector@ebed35
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14f60ec
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1de974f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:29 GMT: Compiler call returned
+15 Nov 2017 22:23:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110d073
+15 Nov 2017 22:23:29 GMT:  Kind = ERROR
+15 Nov 2017 22:23:29 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:29 GMT: diagnostics = javax.tools.DiagnosticCollector@4f8243
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1695f0b
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@165521d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:29 GMT: Compiler call returned
+15 Nov 2017 22:23:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@824ffc
+15 Nov 2017 22:23:29 GMT:  Kind = ERROR
+15 Nov 2017 22:23:29 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:39 GMT: diagnostics = javax.tools.DiagnosticCollector@cc97ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13c713a
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14a713f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:39 GMT: Compiler call returned
+15 Nov 2017 22:23:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13d4895
+15 Nov 2017 22:23:39 GMT:  Kind = ERROR
+15 Nov 2017 22:23:39 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:39 GMT: diagnostics = javax.tools.DiagnosticCollector@986e56
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ddfe6d
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8743e5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:39 GMT: Compiler call returned
+15 Nov 2017 22:23:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d9f656
+15 Nov 2017 22:23:39 GMT:  Kind = ERROR
+15 Nov 2017 22:23:39 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 94 ColNo = 59 Msg = 'Syntax error, insert ") ;" to complete DoStatement'
+15 Nov 2017 22:23:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1ed0a78
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@101e4b
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:23:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15d3e1d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:23:53 GMT: Compiler call returned
+15 Nov 2017 22:23:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a891d
+15 Nov 2017 22:23:53 GMT:  Kind = ERROR
+15 Nov 2017 22:23:53 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 45 ColNo = 15 Msg = 'substring cannot be resolved to a variable'
+15 Nov 2017 22:23:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f08101
+15 Nov 2017 22:23:53 GMT:  Kind = ERROR
+15 Nov 2017 22:23:53 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 50 ColNo = 35 Msg = 'substring cannot be resolved or is not a field'
+15 Nov 2017 22:24:25 GMT: diagnostics = javax.tools.DiagnosticCollector@19ded39
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ec3131
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:24:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1031f43' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:24:25 GMT: Compiler call returned
+15 Nov 2017 22:24:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b2607d
+15 Nov 2017 22:24:25 GMT:  Kind = ERROR
+15 Nov 2017 22:24:25 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 50 ColNo = 35 Msg = 'substring cannot be resolved or is not a field'
+15 Nov 2017 22:24:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1b04a42
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1891da5
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:24:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14dece6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:24:35 GMT: Compiler call returned
+15 Nov 2017 22:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1947b8f
+15 Nov 2017 22:24:35 GMT:  Kind = ERROR
+15 Nov 2017 22:24:35 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 50 ColNo = 18 Msg = 'Type mismatch: cannot convert from java.lang.String to double'
+15 Nov 2017 22:28:13 GMT: diagnostics = javax.tools.DiagnosticCollector@18c0e8e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6c99fb
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:28:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1381917' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:28:13 GMT: Compiler call returned
+15 Nov 2017 22:28:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153ba1e
+15 Nov 2017 22:28:13 GMT:  Kind = ERROR
+15 Nov 2017 22:28:13 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 51 ColNo = 18 Msg = 'Type mismatch: cannot convert from java.lang.String to double'
+15 Nov 2017 22:28:42 GMT: diagnostics = javax.tools.DiagnosticCollector@196c352
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@196c586
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:28:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e76e81' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:28:42 GMT: Compiler call returned
+15 Nov 2017 22:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d2950
+15 Nov 2017 22:28:42 GMT:  Kind = WARNING
+15 Nov 2017 22:28:42 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 22:29:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1a8ad1e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3a0822
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java]
+15 Nov 2017 22:29:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f29442' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 22:29:38 GMT: Compiler call returned
+15 Nov 2017 22:29:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b24540
+15 Nov 2017 22:29:38 GMT:  Kind = WARNING
+15 Nov 2017 22:29:38 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:17:46 GMT: Log 'EclipseCompiler.txt' opened: 17 Nov 2017 23:17:46 GMT with name C:\Users\hp\Desktop\CS\lab05\lab05c\EclipseCompiler.txt
+17 Nov 2017 23:24:04 GMT: diagnostics = javax.tools.DiagnosticCollector@5b2ef9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f50138
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:24:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e01bd1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:24:06 GMT: Compiler call returned
+17 Nov 2017 23:24:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b65b9
+17 Nov 2017 23:24:06 GMT:  Kind = WARNING
+17 Nov 2017 23:24:06 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:24:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e7477e
+17 Nov 2017 23:24:06 GMT:  Kind = WARNING
+17 Nov 2017 23:24:06 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:24:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b94336
+17 Nov 2017 23:24:06 GMT:  Kind = WARNING
+17 Nov 2017 23:24:06 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'
+17 Nov 2017 23:24:51 GMT: diagnostics = javax.tools.DiagnosticCollector@13ca2d3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1009e70
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:24:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1747523' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:24:51 GMT: Compiler call returned
+17 Nov 2017 23:24:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ac990
+17 Nov 2017 23:24:51 GMT:  Kind = WARNING
+17 Nov 2017 23:24:51 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:24:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1defadd
+17 Nov 2017 23:24:51 GMT:  Kind = ERROR
+17 Nov 2017 23:24:51 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 19 ColNo = 12 Msg = 'i cannot be resolved to a variable'
+17 Nov 2017 23:24:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f98e71
+17 Nov 2017 23:24:51 GMT:  Kind = ERROR
+17 Nov 2017 23:24:51 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 19 ColNo = 20 Msg = 'i cannot be resolved to a variable'
+17 Nov 2017 23:24:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d849bf
+17 Nov 2017 23:24:51 GMT:  Kind = ERROR
+17 Nov 2017 23:24:51 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 19 ColNo = 26 Msg = 'i cannot be resolved to a variable'
+17 Nov 2017 23:24:58 GMT: diagnostics = javax.tools.DiagnosticCollector@cf44d1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@196c372
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:24:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1471ad1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:24:59 GMT: Compiler call returned
+17 Nov 2017 23:24:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8d635a
+17 Nov 2017 23:24:59 GMT:  Kind = WARNING
+17 Nov 2017 23:24:59 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:24:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe1ba6
+17 Nov 2017 23:24:59 GMT:  Kind = WARNING
+17 Nov 2017 23:24:59 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:24:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cb6b5
+17 Nov 2017 23:24:59 GMT:  Kind = WARNING
+17 Nov 2017 23:24:59 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'
+17 Nov 2017 23:25:10 GMT: diagnostics = javax.tools.DiagnosticCollector@5a75bc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@151725f
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:25:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ef4543' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:25:10 GMT: Compiler call returned
+17 Nov 2017 23:25:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1718487
+17 Nov 2017 23:25:10 GMT:  Kind = WARNING
+17 Nov 2017 23:25:10 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:25:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1090c
+17 Nov 2017 23:25:10 GMT:  Kind = WARNING
+17 Nov 2017 23:25:10 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:25:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee2fbf
+17 Nov 2017 23:25:10 GMT:  Kind = WARNING
+17 Nov 2017 23:25:10 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'
+17 Nov 2017 23:26:03 GMT: diagnostics = javax.tools.DiagnosticCollector@11cd0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19805de
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:26:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f0ba07' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:26:03 GMT: Compiler call returned
+17 Nov 2017 23:26:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ae129a
+17 Nov 2017 23:26:03 GMT:  Kind = WARNING
+17 Nov 2017 23:26:03 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:26:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@718031
+17 Nov 2017 23:26:03 GMT:  Kind = ERROR
+17 Nov 2017 23:26:03 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 22 ColNo = 14 Msg = 'Type mismatch: cannot convert from double to int'
+17 Nov 2017 23:26:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1aa8c6f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@58edfe
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:26:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1458efa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:26:23 GMT: Compiler call returned
+17 Nov 2017 23:26:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@162b7db
+17 Nov 2017 23:26:23 GMT:  Kind = WARNING
+17 Nov 2017 23:26:23 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:26:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf00dd
+17 Nov 2017 23:26:23 GMT:  Kind = WARNING
+17 Nov 2017 23:26:23 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:26:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f31bd1
+17 Nov 2017 23:26:23 GMT:  Kind = WARNING
+17 Nov 2017 23:26:23 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'
+17 Nov 2017 23:27:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1ea1488
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ec7118
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:27:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@97541b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:27:01 GMT: Compiler call returned
+17 Nov 2017 23:27:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fbbb21
+17 Nov 2017 23:27:01 GMT:  Kind = WARNING
+17 Nov 2017 23:27:01 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:27:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5dd1d3
+17 Nov 2017 23:27:01 GMT:  Kind = WARNING
+17 Nov 2017 23:27:01 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:27:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c6a792
+17 Nov 2017 23:27:01 GMT:  Kind = WARNING
+17 Nov 2017 23:27:01 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'
+17 Nov 2017 23:27:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1082b16
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3b5e03
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java, C:\Users\hp\Desktop\CS\Practice\random\random.java]
+17 Nov 2017 23:27:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@104a5b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05c;C:\Users\hp\Desktop\CS\Practice\random;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+17 Nov 2017 23:27:06 GMT: Compiler call returned
+17 Nov 2017 23:27:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d5935c
+17 Nov 2017 23:27:06 GMT:  Kind = WARNING
+17 Nov 2017 23:27:06 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05c\lab05c.java LineNo = 16 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:27:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48407c
+17 Nov 2017 23:27:06 GMT:  Kind = WARNING
+17 Nov 2017 23:27:06 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+17 Nov 2017 23:27:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f5be9
+17 Nov 2017 23:27:06 GMT:  Kind = WARNING
+17 Nov 2017 23:27:06 GMT: Name = C:\Users\hp\Desktop\CS\Practice\random\random.java LineNo = 12 ColNo = 15 Msg = 'The value of the local variable scan is not used'

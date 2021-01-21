@@ -1,0 +1,46 @@
+import java.util.Scanner;
+
+/**
+ * __program description___ 
+ * @author __your name___
+ * @version __date__
+ */ 
+public class XXXX
+{
+   public static void main( String[] args)
+   {
+
+      // constants
+     Scanner scan = new Scanner( System.in);
+     
+      // variables
+     int x;
+     int n;
+     n = scan.nextInt();
+     
+     //initializing
+     
+     x = 0;
+     
+     if ( n < 0)
+     {
+       System.out.println( "Stop" );
+     }else
+       
+     {
+
+      // program code
+      System.out.println( "Start...");
+      
+      while ( n > x)
+      {
+        x = x + 1;
+        System.out.print( x + " " );
+      }
+     }
+
+
+      System.out.println( "End.");
+   }
+
+}

@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+/**
+ * __program description___ 
+ * @author __your name___
+ * @version __date__
+ */ 
+public class lab03a
+{
+   public static void main( String[] args)
+   {
+      Scanner scan = new Scanner( System.in);
+
+      // constants
+
+      // variables
+
+      // program code
+      System.out.println( "Start...");
+      
+for ( int x = 0; x <= 50; x++ ) 
+{
+    System.out.println(x);
+}
+
+      System.out.println( "End.");
+   }
+
+}

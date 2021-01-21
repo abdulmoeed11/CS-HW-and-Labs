@@ -1,0 +1,36 @@
+public class lab07a
+{
+   public static void main( String[] args)
+   {
+      
+      Scanner scan = new Scanner( System.in);
+      
+      // Variables 
+      final int sum = 12;
+      int dice1;
+      int dice2;
+      int count;
+      
+      // Initialization
+      
+      count = 0;
+      
+      // Program code
+      
+      while( (dice1 + dice2) != sum )
+      {
+         
+         dice1 = ( int ) ( Math.random() * 6 ) + 1;
+         dice2 = ( int ) ( Math.random() * 6 ) + 1;
+         count = count + 1;
+      }
+      
+      System.out.println( " Total no of Rolls made are " + count );
+      
+      // new Line
+      
+     
+                               
+   }    
+
+}

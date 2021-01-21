@@ -1,0 +1,9 @@
+15 Nov 2017 21:25:24 GMT: Log 'EclipseCompiler.txt' opened: 15 Nov 2017 21:25:24 GMT with name C:\Users\hp\Desktop\CS\LAB04\lab04d\EclipseCompiler.txt
+15 Nov 2017 21:25:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1d100b3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14e3320
+fileObjects = [C:\Users\hp\Desktop\CS\LAB04\lab04d\lab04d.java]
+15 Nov 2017 21:25:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1aedfdd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\LAB04\lab04d;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:25:33 GMT: Compiler call returned
+15 Nov 2017 21:25:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@468532
+15 Nov 2017 21:25:33 GMT:  Kind = WARNING
+15 Nov 2017 21:25:33 GMT: Name = C:\Users\hp\Desktop\CS\LAB04\lab04d\lab04d.java LineNo = 12 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'

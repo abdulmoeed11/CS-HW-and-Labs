@@ -1,0 +1,129 @@
+15 Nov 2017 20:58:04 GMT: Log 'EclipseCompiler.txt' opened: 15 Nov 2017 20:58:04 GMT with name C:\Users\hp\Desktop\CS\lab05\lab05a\EclipseCompiler.txt
+15 Nov 2017 20:58:11 GMT: diagnostics = javax.tools.DiagnosticCollector@11439ff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@53b59a
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 20:58:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9a0022' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 20:58:11 GMT: Compiler call returned
+15 Nov 2017 20:58:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71a5ef
+15 Nov 2017 20:58:11 GMT:  Kind = WARNING
+15 Nov 2017 20:58:11 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:12 GMT: Log 'EclipseCompiler.txt' opened: 15 Nov 2017 21:15:12 GMT with name C:\Users\hp\Desktop\CS\lab05\lab05a\EclipseCompiler.txt
+15 Nov 2017 21:15:26 GMT: diagnostics = javax.tools.DiagnosticCollector@18187cd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fc4afe
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c2c125' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:26 GMT: Compiler call returned
+15 Nov 2017 21:15:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1506f17
+15 Nov 2017 21:15:26 GMT:  Kind = WARNING
+15 Nov 2017 21:15:26 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:27 GMT: diagnostics = javax.tools.DiagnosticCollector@199e256
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a25b9d
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@49de97' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:27 GMT: Compiler call returned
+15 Nov 2017 21:15:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14f5fde
+15 Nov 2017 21:15:27 GMT:  Kind = WARNING
+15 Nov 2017 21:15:27 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1c646e9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15fbae9
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e02663' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:48 GMT: Compiler call returned
+15 Nov 2017 21:15:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b41cb
+15 Nov 2017 21:15:48 GMT:  Kind = WARNING
+15 Nov 2017 21:15:48 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:50 GMT: diagnostics = javax.tools.DiagnosticCollector@12e2e84
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1eff11
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17f7eca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:50 GMT: Compiler call returned
+15 Nov 2017 21:15:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e720f8
+15 Nov 2017 21:15:50 GMT:  Kind = WARNING
+15 Nov 2017 21:15:50 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:50 GMT: diagnostics = javax.tools.DiagnosticCollector@3e905c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9c684
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1661a49' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:50 GMT: Compiler call returned
+15 Nov 2017 21:15:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13821c4
+15 Nov 2017 21:15:50 GMT:  Kind = WARNING
+15 Nov 2017 21:15:50 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:50 GMT: diagnostics = javax.tools.DiagnosticCollector@f400d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7bbfc8
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17bc662' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:51 GMT: Compiler call returned
+15 Nov 2017 21:15:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b7c58a
+15 Nov 2017 21:15:51 GMT:  Kind = WARNING
+15 Nov 2017 21:15:51 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:51 GMT: diagnostics = javax.tools.DiagnosticCollector@de392e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f44f2c
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@198f251' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:51 GMT: Compiler call returned
+15 Nov 2017 21:15:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1fa3f
+15 Nov 2017 21:15:51 GMT:  Kind = WARNING
+15 Nov 2017 21:15:51 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:15:51 GMT: diagnostics = javax.tools.DiagnosticCollector@12e95d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e3b22f
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java]
+15 Nov 2017 21:15:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@47dd6e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:15:51 GMT: Compiler call returned
+15 Nov 2017 21:15:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@161093e
+15 Nov 2017 21:15:51 GMT:  Kind = WARNING
+15 Nov 2017 21:15:51 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1eaab4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7aa79c
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java, C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java]
+15 Nov 2017 21:17:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e8a848' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:17:14 GMT: Compiler call returned
+15 Nov 2017 21:17:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46a185
+15 Nov 2017 21:17:14 GMT:  Kind = WARNING
+15 Nov 2017 21:17:14 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@857df5
+15 Nov 2017 21:17:14 GMT:  Kind = WARNING
+15 Nov 2017 21:17:14 GMT: Name = C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java LineNo = 15 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:28 GMT: diagnostics = javax.tools.DiagnosticCollector@151c3ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17a47a7
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java, C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java]
+15 Nov 2017 21:17:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19281af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:17:28 GMT: Compiler call returned
+15 Nov 2017 21:17:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b8daa8
+15 Nov 2017 21:17:28 GMT:  Kind = WARNING
+15 Nov 2017 21:17:28 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42c681
+15 Nov 2017 21:17:28 GMT:  Kind = WARNING
+15 Nov 2017 21:17:28 GMT: Name = C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java LineNo = 15 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:28 GMT: diagnostics = javax.tools.DiagnosticCollector@e8a1db
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@186cd83
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java, C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java]
+15 Nov 2017 21:17:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28c6bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:17:28 GMT: Compiler call returned
+15 Nov 2017 21:17:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ae89a
+15 Nov 2017 21:17:28 GMT:  Kind = WARNING
+15 Nov 2017 21:17:28 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1761b04
+15 Nov 2017 21:17:28 GMT:  Kind = WARNING
+15 Nov 2017 21:17:28 GMT: Name = C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java LineNo = 15 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:59 GMT: diagnostics = javax.tools.DiagnosticCollector@bedf04
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3d798d
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java, C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java]
+15 Nov 2017 21:17:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12b0894' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:17:59 GMT: Compiler call returned
+15 Nov 2017 21:17:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@123d339
+15 Nov 2017 21:17:59 GMT:  Kind = WARNING
+15 Nov 2017 21:17:59 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:17:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bee922
+15 Nov 2017 21:17:59 GMT:  Kind = WARNING
+15 Nov 2017 21:17:59 GMT: Name = C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java LineNo = 15 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:18:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1d01da4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@152280b
+fileObjects = [C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java, C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java]
+15 Nov 2017 21:18:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d7be71' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\hp\Desktop\CS\lab05\lab05a;C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c;C:\Users\hp\Downloads\drjava-beta-20160913-225446 (1).exe]
+15 Nov 2017 21:18:46 GMT: Compiler call returned
+15 Nov 2017 21:18:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f45e3d
+15 Nov 2017 21:18:46 GMT:  Kind = WARNING
+15 Nov 2017 21:18:46 GMT: Name = C:\Users\hp\Desktop\CS\lab05\lab05a\lab05a.java LineNo = 16 ColNo = 14 Msg = 'Resource leak: 'scan' is never closed'
+15 Nov 2017 21:18:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170dd10
+15 Nov 2017 21:18:46 GMT:  Kind = WARNING
+15 Nov 2017 21:18:46 GMT: Name = C:\Users\hp\AppData\Local\Temp\Temp1_07_Lab04_Moeed_Abdul (1).zip\lab04\lab04c\lab04c.java LineNo = 15 ColNo = 15 Msg = 'Resource leak: 'scan' is never closed'

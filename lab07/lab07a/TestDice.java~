@@ -1,0 +1,25 @@
+/**
+ * __Testing the dice___ 
+ * @author __Abdul Moeed___
+ * @version __30.11.2017__
+ */ 
+
+public class TestDice
+{
+   public static void main( String[] args)
+   {
+      // Variable
+      
+      Dice dice;
+      
+      // Program Code
+      
+      dice = new Dice();
+      
+      
+      dice.getDiceTotal();
+      System.out.println( "Value of Die One: " + dice.getDie1FaceValue() );
+      System.out.println( "Value of Die Two: " + dice.getDie2FaceValue() );
+      System.out.println( dice.toString() );
+   }
+}
